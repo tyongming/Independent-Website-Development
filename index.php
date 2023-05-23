@@ -19,13 +19,7 @@
 
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/carousel/">
-
-
-
     
-
-
-
     <!-- Bootstrap core CSS -->
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
@@ -65,74 +59,11 @@
     </style>
 
 
-
-    
-
-    <!-- Custom styles for this template -->
-
     <link href="carousel.css" rel="stylesheet">
 
   </head>
 
   <body class="pt-2 px-2 pb-0">
-
-    
-
-<!--<header>
-
-  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-
-    <div class="container-fluid">
-
-      <a class="navbar-brand" href="#">Carousel</a>
-
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-
-        <span class="navbar-toggler-icon"></span>
-
-      </button>
-
-      <div class="collapse navbar-collapse" id="navbarCollapse">
-
-        <ul class="navbar-nav me-auto mb-2 mb-md-0">
-
-          <li class="nav-item">
-
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
-
-          </li>
-
-          <li class="nav-item">
-
-            <a class="nav-link" href="#">Link</a>
-
-          </li>
-
-          <li class="nav-item">
-
-            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-
-          </li>
-
-        </ul>
-
-        <form class="d-flex">
-
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-
-          <button class="btn btn-outline-success" type="submit">Search</button>
-
-        </form>
-
-      </div>
-
-    </div>
-
-  </nav>
-
-</header> -->
-
-
 
 <main>
 
@@ -144,7 +75,6 @@
 
       <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
 
-      <!--<button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>-->
 
     </div>
 
@@ -187,52 +117,6 @@
 
       </div>
 
-     
-
-      <!--<div class="carousel-item">
-
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
-
-
-
-        <div class="container">
-
-          <div class="carousel-caption">
-
-            <h1>Another example headline.</h1>
-
-            <p>Some representative placeholder content for the second slide of the carousel.</p>
-
-            <p><a class="btn btn-lg btn-primary" href="#">Learn more</a></p>
-
-          </div>
-
-        </div>
-
-      </div>
-
-      <div class="carousel-item">
-
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
-
-
-
-        <div class="container">
-
-          <div class="carousel-caption text-end">
-
-            <h1>One more for good measure.</h1>
-
-            <p>Some representative placeholder content for the third slide of this carousel.</p>
-
-            <p><a class="btn btn-lg btn-primary" href="#">Browse gallery</a></p>
-
-          </div>
-
-        </div>
-
-      </div> -->
-
     </div>
 
     <button class="carousel-control-prev btnnxpv" id="btnnxpv2" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
@@ -253,19 +137,9 @@
 
   </div>
 
-  <!-- Marketing messaging and featurettes
-
-  ================================================== -->
-
-  <!-- Wrap the rest of the page in another container to center all the content. -->
-
-
 
   <div class="container marketing">
 
-
-
-    <!-- Three columns of text below the carousel -->
 
     <div class="row">
 
@@ -368,17 +242,7 @@
 
     </script>     
 
-    <!--<script>
-      if(screen.width>=1500 && screen.width<2000){ document.write("<style>body{zoom:125%}.btnscrolldwn i{display:block}</style>");}
-      if(window.innerWidth>=1500 && window.innerHeight>=1000 && window.innerHeight<1040){ document.write("<style>body{zoom:135%}.btnscrolldwn i{display:block}</style>");}
-      if(screen.width>=2000){ document.write("<style>body{zoom:135%}</style>");}
-      if(window.innerWidth>=2000 && window.innerHeight>=1000 && window.innerHeight<1040){ document.write("<style>body{zoom:135%}.btnscrolldwn i{display:block}</style>");}
-      if(screen.width>=2500){ document.write("<style>body{zoom:150%}.btnscrolldwn i{display:block}</style>");}
-    </script>-->
-
   </body>
-
   
-
 </html>
 
