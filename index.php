@@ -10,13 +10,9 @@
 
     <meta name="description" content="">
 
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-
-    <meta name="generator" content="Hugo 0.84.0">
+    <meta name="author" content="Ming">
 
     <title>首页 – 原神✨交流群</title>
-
-
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/carousel/">
     
